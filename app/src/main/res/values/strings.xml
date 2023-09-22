@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Actividad18-09-2023</string>
+
+    <string name="titulo">Tienda Departamental</string>
+    <string name="codigo">Código de producto</string>
+    <string name="descripcion">Descripción</string>
+    <string name="chica">Talla chica</string>
+    <string name="mediana">Talla mediana</string>
+    <string name="grande">Talla grande</string>
+    <string name="costoUnitario">Costo unitario</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="agregar">Agregar</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="mostrar">Regresar</string>
+    <string name="datos">Información registrada</string>
+
+    <string-array name="listaMarcas">
+        <item>Patito1</item>
+        <item>Patito2</item>
+        <item>Patito3</item>
+        <item>Patito4</item>
+        <item>Patito5</item>
+    </string-array>
+
+</resources>
